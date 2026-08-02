@@ -1,4 +1,16 @@
 aid: videoplaza
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/videoplaza.png
 name: Videoplaza
 description: 'Videoplaza is a company surfaced as a portfolio company of creandum, northzone and added
   to the API Evangelist network as a stub for enrichment. Sector: other. This profile is a lead awaiting
@@ -18,6 +30,11 @@ tags:
 - Company
 - Other
 apis: []
+x-enrichment:
+  date: '2026-07-21'
+  status: nochange
+  artifacts_added: 0
+  pass: local-v1
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
